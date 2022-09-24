@@ -1,0 +1,15 @@
+current directory: /home/initcoders/Desktop/ROR/blog_demo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20220924-26127-1gbjraj.rb extconf.rb
+creating Makefile
+
+current directory: /home/initcoders/Desktop/ROR/blog_demo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/initcoders/Desktop/ROR/blog_demo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/initcoders/Desktop/ROR/blog_demo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20220924-26127-jvf0p2/skiptrace/internal
